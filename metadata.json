@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Quiz App",
+  "description": "A dynamic quiz application powered by the Gemini API. Select a category and test your knowledge with AI-generated questions. Features a sleek dark mode interface, responsive design, and instant feedback.",
+  "requestFramePermissions": []
+}
